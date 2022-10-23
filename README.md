@@ -1,4 +1,4 @@
 # aaai23
 
 # User Study
-![User Study](./user study.png)
+![User Study](./user_study.png)
